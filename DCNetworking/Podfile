@@ -1,0 +1,5 @@
+use_frameworks!
+
+target 'DCNetworking' do
+  pod 'Alamofire', '~> 3.4.0'
+end
